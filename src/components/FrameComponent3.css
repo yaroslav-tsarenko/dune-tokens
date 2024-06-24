@@ -1,0 +1,804 @@
+.div40,
+.heading-3 {
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.heading-3 {
+  line-height: 27px;
+  font-weight: 600;
+  min-width: 118.3px;
+}
+.div40 {
+  font-size: 15.8px;
+  line-height: 24px;
+  color: #666;
+  min-width: 29px;
+}
+.heading-3-all-categories-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 7.6px;
+  flex-shrink: 0;
+}
+.netflix-sprite-200x113png-icon {
+  height: 108.8px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: contain;
+}
+.background19 {
+  align-self: stretch;
+  background-color: #f9f9f9;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 35.6px 17px;
+}
+.netflix,
+.netflix-gift-cards {
+  position: relative;
+  text-decoration: underline;
+  display: inline-block;
+}
+.netflix {
+  margin-top: -23.1px;
+  line-height: 22.4px;
+  font-weight: 600;
+  min-width: 49.1px;
+}
+.netflix-gift-cards {
+  font-size: 13.9px;
+  line-height: 20px;
+  color: #999;
+  min-width: 106px;
+}
+.container16 {
+  align-self: stretch;
+  height: 46.4px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 22.4px 0 4px;
+  box-sizing: border-box;
+  gap: 0.7px;
+}
+.div41 {
+  position: relative;
+  text-decoration: underline;
+  line-height: 20px;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 8px;
+}
+.wrapper15 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 2px;
+}
+.div42,
+.div43 {
+  position: relative;
+  text-decoration: underline;
+  font-weight: 600;
+  display: inline-block;
+}
+.div42 {
+  font-size: 19.4px;
+  line-height: 28px;
+  min-width: 28px;
+}
+.div43 {
+  line-height: 20px;
+  min-width: 16px;
+  flex-shrink: 0;
+}
+.wrapper16 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 2px;
+}
+.div44 {
+  position: relative;
+  font-size: 18.1px;
+  text-decoration: underline;
+  line-height: 28px;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 8px;
+  flex-shrink: 0;
+}
+.frame-parent16 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 0.2px;
+  font-size: 13.6px;
+}
+.div45 {
+  position: relative;
+  text-decoration: underline;
+  line-height: 20px;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 8px;
+}
+.wrapper17 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 2px;
+}
+.div46,
+.div47 {
+  position: relative;
+  text-decoration: underline;
+  font-weight: 600;
+  display: inline-block;
+}
+.div46 {
+  font-size: 19.4px;
+  line-height: 28px;
+  min-width: 40px;
+}
+.div47 {
+  line-height: 20px;
+  min-width: 16px;
+}
+.wrapper18 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 2px;
+  font-size: 13.6px;
+}
+.frame-parent15 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 0.5px;
+  flex-shrink: 0;
+  font-size: 13.1px;
+}
+.container-parent4 {
+  flex: 1;
+  flex-direction: column;
+}
+.container-parent4,
+.overlaybordershadow-inner8,
+.overlaybordershadow14 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.overlaybordershadow-inner8 {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 12px;
+}
+.overlaybordershadow14 {
+  width: 217.6px;
+  margin: 0 !important;
+  position: absolute;
+  top: 0;
+  left: 1456px;
+  box-shadow: 1px 2px 3px rgba(0, 0, 0, 0.05);
+  border-radius: 5px;
+  background-color: transparent;
+  border: 1px solid #e5e5e5;
+  box-sizing: border-box;
+  flex-direction: column;
+  padding: 0 0 17px;
+  gap: 12px;
+}
+.xbox-gamepass-ultimate-grey-sp-icon {
+  height: 108.8px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: contain;
+}
+.background20 {
+  align-self: stretch;
+  background-color: #f9f9f9;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 35.5px 17px 35.7px;
+}
+.ultimate,
+.xbox-game-pass1 {
+  margin: 0;
+}
+.xbox-game-pass-container1 {
+  margin-top: -45.4px;
+  position: relative;
+  text-decoration: underline;
+  line-height: 22.4px;
+  font-weight: 600;
+}
+.game-pass-ultimate {
+  position: relative;
+  font-size: 14px;
+  text-decoration: underline;
+  line-height: 20px;
+  color: #999;
+}
+.container17 {
+  align-self: stretch;
+  height: 68.8px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 44.7px 0 4.1px;
+  box-sizing: border-box;
+  gap: 0.6px;
+}
+.div48 {
+  position: relative;
+  text-decoration: underline;
+  line-height: 20px;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 8px;
+}
+.wrapper19 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 2px;
+}
+.div49,
+.div50 {
+  position: relative;
+  text-decoration: underline;
+  font-weight: 600;
+  display: inline-block;
+}
+.div49 {
+  flex: 1;
+  font-size: 19.4px;
+  line-height: 28px;
+  min-width: 28px;
+  flex-shrink: 0;
+}
+.div50 {
+  line-height: 20px;
+  min-width: 16px;
+}
+.wrapper20 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 2px;
+}
+.div51 {
+  position: relative;
+  font-size: 18.1px;
+  text-decoration: underline;
+  line-height: 28px;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 8px;
+}
+.frame-parent18 {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 0.3px;
+  font-size: 13.6px;
+}
+.div52 {
+  position: relative;
+  text-decoration: underline;
+  line-height: 20px;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 8px;
+}
+.wrapper21 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 2px;
+}
+.div53,
+.div54 {
+  position: relative;
+  text-decoration: underline;
+  font-weight: 600;
+  display: inline-block;
+}
+.div53 {
+  flex: 1;
+  font-size: 19.4px;
+  line-height: 28px;
+  min-width: 28px;
+  flex-shrink: 0;
+}
+.div54 {
+  line-height: 20px;
+  min-width: 16px;
+}
+.wrapper22 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 2px;
+  font-size: 13.6px;
+}
+.frame-parent17 {
+  width: 115.5px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 0.7px;
+  margin-top: -0.1px;
+  font-size: 13.1px;
+}
+.container-parent5 {
+  flex: 1;
+  flex-direction: column;
+}
+.container-parent5,
+.overlaybordershadow-inner9,
+.overlaybordershadow15 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.overlaybordershadow-inner9 {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 12px;
+}
+.overlaybordershadow15 {
+  width: 217.6px;
+  margin: 0 !important;
+  position: absolute;
+  top: 620.3px;
+  left: 489.6px;
+  box-shadow: 1px 2px 3px rgba(0, 0, 0, 0.05);
+  border-radius: 5px;
+  background-color: transparent;
+  border: 1px solid #e5e5e5;
+  box-sizing: border-box;
+  flex-direction: column;
+  padding: 0 0 17px;
+  gap: 12px;
+}
+.lifestyle-sprite-200x113png-icon {
+  height: 108.8px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: contain;
+}
+.background21 {
+  align-self: stretch;
+  background-color: #f9f9f9;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 35.6px 17px;
+}
+.lifestyle,
+.lifestyle-motivates {
+  text-decoration: underline;
+  position: relative;
+}
+.lifestyle-motivates {
+  margin-top: -23.1px;
+  line-height: 22.4px;
+  font-weight: 600;
+}
+.lifestyle {
+  font-size: 13.7px;
+  line-height: 20px;
+  color: #999;
+  display: inline-block;
+  min-width: 52px;
+}
+.container18 {
+  align-self: stretch;
+  height: 46.4px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 22.4px 0 4px;
+  box-sizing: border-box;
+  gap: 0.7px;
+}
+.div55 {
+  position: relative;
+  text-decoration: underline;
+  line-height: 20px;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 8px;
+}
+.wrapper23 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 2px;
+}
+.div56,
+.div57 {
+  position: relative;
+  text-decoration: underline;
+  font-weight: 600;
+  display: inline-block;
+}
+.div56 {
+  font-size: 19.4px;
+  line-height: 28px;
+  min-width: 28px;
+}
+.div57 {
+  line-height: 20px;
+  min-width: 16px;
+}
+.wrapper24 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 2px;
+}
+.div58 {
+  position: relative;
+  font-size: 18.1px;
+  text-decoration: underline;
+  line-height: 28px;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 8px;
+}
+.frame-parent20 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 0.3px;
+  font-size: 13.6px;
+}
+.div59 {
+  position: relative;
+  text-decoration: underline;
+  line-height: 20px;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 8px;
+}
+.wrapper25 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 2px;
+}
+.div60,
+.div61 {
+  position: relative;
+  text-decoration: underline;
+  font-weight: 600;
+  display: inline-block;
+}
+.div60 {
+  font-size: 19.4px;
+  line-height: 28px;
+  min-width: 40px;
+}
+.div61 {
+  line-height: 20px;
+  min-width: 16px;
+}
+.wrapper26 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 2px;
+  font-size: 13.6px;
+}
+.frame-parent19 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 0.5px;
+  flex-shrink: 0;
+  font-size: 13.1px;
+}
+.container-parent6 {
+  flex: 1;
+  flex-direction: column;
+}
+.container-parent6,
+.overlaybordershadow-inner10,
+.overlaybordershadow16 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.overlaybordershadow-inner10 {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 12px;
+}
+.overlaybordershadow16 {
+  width: 217.6px;
+  margin: 0 !important;
+  position: absolute;
+  top: 952.8px;
+  left: 731.2px;
+  box-shadow: 1px 2px 3px rgba(0, 0, 0, 0.05);
+  border-radius: 5px;
+  background-color: transparent;
+  border: 1px solid #e5e5e5;
+  box-sizing: border-box;
+  flex-direction: column;
+  padding: 0 0 17px;
+  gap: 12px;
+}
+.twitch-sprite-200x113png-icon {
+  height: 108.8px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: contain;
+}
+.background22 {
+  align-self: stretch;
+  background-color: #f9f9f9;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 35.6px 17px;
+}
+.twitch,
+.twitch-gift-cards {
+  position: relative;
+  text-decoration: underline;
+  display: inline-block;
+}
+.twitch {
+  margin-top: -23.1px;
+  line-height: 22.4px;
+  font-weight: 600;
+  min-width: 49.7px;
+}
+.twitch-gift-cards {
+  font-size: 13.9px;
+  line-height: 20px;
+  color: #999;
+  min-width: 107px;
+}
+.container19 {
+  align-self: stretch;
+  height: 46.4px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 22.4px 0 4px;
+  box-sizing: border-box;
+  gap: 0.7px;
+}
+.div62 {
+  position: relative;
+  text-decoration: underline;
+  line-height: 20px;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 8px;
+}
+.wrapper27 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 2px;
+  font-size: 13.1px;
+}
+.div63,
+.div64 {
+  position: relative;
+  text-decoration: underline;
+  font-weight: 600;
+  display: inline-block;
+}
+.div63 {
+  line-height: 28px;
+  min-width: 28px;
+  flex-shrink: 0;
+}
+.div64 {
+  line-height: 20px;
+  min-width: 16px;
+}
+.wrapper28 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 2px;
+}
+.div65 {
+  position: relative;
+  font-size: 18.1px;
+  text-decoration: underline;
+  line-height: 28px;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 8px;
+}
+.frame-parent23 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 0.2px;
+}
+.div66 {
+  position: relative;
+  text-decoration: underline;
+  line-height: 20px;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 8px;
+  z-index: 1;
+}
+.wrapper29 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 2px;
+  font-size: 13.1px;
+}
+.frame-parent22 {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  font-size: 13.6px;
+}
+.div67,
+.div68 {
+  position: relative;
+  text-decoration: underline;
+  font-weight: 600;
+  display: inline-block;
+}
+.div67 {
+  flex: 1;
+  line-height: 28px;
+  min-width: 40px;
+  flex-shrink: 0;
+}
+.div68 {
+  line-height: 20px;
+  min-width: 16px;
+}
+.wrapper30 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 2px;
+  font-size: 13.6px;
+}
+.frame-parent21 {
+  width: 126.6px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 0.7px;
+  flex-shrink: 0;
+  font-size: 19.4px;
+}
+.container-parent7 {
+  flex: 1;
+  flex-direction: column;
+}
+.container-parent7,
+.overlaybordershadow-inner11,
+.overlaybordershadow17 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.overlaybordershadow-inner11 {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 12px;
+}
+.overlaybordershadow17 {
+  width: 217.6px;
+  margin: 0 !important;
+  position: absolute;
+  top: 952.8px;
+  left: 1214.4px;
+  box-shadow: 1px 2px 3px rgba(0, 0, 0, 0.05);
+  border-radius: 5px;
+  background-color: transparent;
+  border: 1px solid #e5e5e5;
+  box-sizing: border-box;
+  flex-direction: column;
+  padding: 0 0 17px;
+  gap: 12px;
+}
+.category-grid {
+  align-self: stretch;
+  height: 1238.9px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  gap: 24px;
+  flex-shrink: 0;
+  font-size: 16px;
+  color: #000;
+}
+.frame-parent14 {
+  width: 1680px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 18px;
+  color: #0b1f1f;
+  font-family: Roboto;
+}
+@media screen and (max-width: 750px) {
+  .frame-parent14 {
+    gap: 16px;
+  }
+}

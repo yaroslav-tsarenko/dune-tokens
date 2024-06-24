@@ -1,0 +1,161 @@
+.link-icon8 {
+  height: 114px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+}
+.background9 {
+  align-self: stretch;
+  background-color: #f9f9f9;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 33px 47px;
+}
+.nintendo-eshop-card {
+  width: 194.9px;
+  position: relative;
+  line-height: 22.4px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.container6 {
+  align-self: stretch;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 0 23.1px;
+  font-size: 16px;
+}
+.digital-code8 {
+  position: relative;
+  line-height: 20px;
+  display: inline-block;
+  min-width: 73.4px;
+}
+.digital-code-wrapper3 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 4px;
+  font-size: 13.9px;
+  color: #999;
+}
+.div17 {
+  position: relative;
+  line-height: 20px;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 9px;
+}
+.nintendo-prices {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 2px 0 0;
+}
+.empty-nintendo-prices,
+.nintendo-price-separator {
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+}
+.nintendo-price-separator {
+  font-size: 19.5px;
+  line-height: 28px;
+  min-width: 27.8px;
+}
+.empty-nintendo-prices {
+  line-height: 20px;
+  min-width: 16px;
+}
+.nintendo-empty-prices,
+.nintendo-prices-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.nintendo-empty-prices {
+  flex-direction: column;
+  padding: 2px 0 0;
+  font-size: 13.8px;
+}
+.nintendo-prices-parent {
+  flex-direction: row;
+  padding: 0 0 7.5px;
+  gap: 0.4px;
+}
+.button9,
+.buy8 {
+  display: flex;
+  justify-content: center;
+}
+.buy8 {
+  width: 26.6px;
+  position: relative;
+  line-height: 14px;
+  font-weight: 600;
+  align-items: center;
+  flex-shrink: 0;
+  min-width: 26.6px;
+}
+.button9 {
+  align-self: stretch;
+  border-radius: 3px;
+  background-color: #262626;
+  border: 1px solid #262626;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 13px 20px;
+  text-align: center;
+  color: #fff;
+}
+.nintendo-card-items {
+  flex: 1;
+  flex-direction: column;
+}
+.nintendo-card-items,
+.nintendo-card-items-wrapper,
+.overlaybordershadow8 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.nintendo-card-items-wrapper {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 12px;
+}
+.overlaybordershadow8 {
+  flex: 1;
+  box-shadow: 1px 2px 3px rgba(0, 0, 0, 0.05);
+  border-radius: 5px;
+  background-color: transparent;
+  border: 1px solid #e5e5e5;
+  box-sizing: border-box;
+  flex-direction: column;
+  padding: 0 0 11px;
+  gap: 12px;
+  min-width: 270px;
+  max-width: 276px;
+  text-align: left;
+  font-size: 14px;
+  color: #000;
+  font-family: Roboto;
+}
+@media screen and (max-width: 450px) {
+  .background9 {
+    padding-left: 20px;
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+}

@@ -1,0 +1,197 @@
+.xbox {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  min-width: 61px;
+  flex-shrink: 0;
+}
+.link-icon7 {
+  height: 160px;
+  width: 111.1px;
+  position: relative;
+  object-fit: cover;
+}
+.background8 {
+  align-self: stretch;
+  background-color: #f9f9f9;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 10px 20px;
+}
+.xbox-gift-card {
+  position: relative;
+  line-height: 22px;
+}
+.container5 {
+  align-self: stretch;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 0 23.5px;
+  font-size: 18px;
+  font-family: Inter;
+}
+.digital-code7 {
+  position: relative;
+  line-height: 20px;
+  display: inline-block;
+  min-width: 73.4px;
+}
+.digital-code-wrapper2 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 4px;
+  font-size: 13.9px;
+  color: #999;
+}
+.div16 {
+  position: relative;
+  line-height: 20px;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 9px;
+}
+.xbox-prices {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 2px 0 0;
+}
+.empty-xbox-prices,
+.xbox-price-separator1 {
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+}
+.xbox-price-separator1 {
+  font-size: 19.5px;
+  line-height: 28px;
+  min-width: 27.8px;
+}
+.empty-xbox-prices {
+  line-height: 20px;
+  min-width: 16px;
+}
+.xbox-empty-prices,
+.xbox-prices-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.xbox-empty-prices {
+  flex-direction: column;
+  padding: 2px 0 0;
+  font-size: 13.8px;
+}
+.xbox-prices-parent {
+  flex-direction: row;
+  padding: 0 0 7.5px;
+  gap: 0.4px;
+}
+.button7,
+.buy7 {
+  display: flex;
+  justify-content: center;
+}
+.buy7 {
+  width: 26.6px;
+  position: relative;
+  line-height: 14px;
+  font-weight: 600;
+  align-items: center;
+  flex-shrink: 0;
+  min-width: 26.6px;
+}
+.button7 {
+  align-self: stretch;
+  border-radius: 3px;
+  background-color: #262626;
+  border: 1px solid #262626;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 13px 20px;
+  text-align: center;
+  color: #fff;
+}
+.xbox-card-items {
+  flex: 1;
+  flex-direction: column;
+}
+.overlaybordershadow7,
+.xbox-card-items,
+.xbox-card-items-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.xbox-card-items-wrapper {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 12px;
+}
+.overlaybordershadow7 {
+  flex: 1;
+  box-shadow: 1px 2px 3px rgba(0, 0, 0, 0.05);
+  border-radius: 5px;
+  background-color: transparent;
+  border: 1px solid #e5e5e5;
+  box-sizing: border-box;
+  flex-direction: column;
+  padding: 0 0 11px;
+  gap: 12px;
+  min-width: 270px;
+  max-width: 276px;
+}
+.xbox-card,
+.xbox-card-container {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+}
+.xbox-card-container {
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 75px;
+  flex-shrink: 0;
+  font-size: 14px;
+  color: #000;
+  font-family: Roboto;
+}
+.xbox-card {
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 32px;
+  text-align: left;
+  font-size: 24px;
+  color: #0b1f1f;
+  font-family: Inter;
+}
+@media screen and (max-width: 850px) {
+  .xbox-card-container {
+    gap: 37px;
+  }
+  .xbox-card {
+    gap: 16px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .xbox {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .xbox-card-container {
+    gap: 19px;
+  }
+}

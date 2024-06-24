@@ -1,0 +1,446 @@
+.please-refer-to1,
+.terms-conditions {
+  width: 1680px;
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+}
+.terms-conditions {
+  margin: 0;
+  font-size: inherit;
+  line-height: 53px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.please-refer-to1 {
+  font-size: 16px;
+  line-height: 22px;
+}
+.terms-conditions-parent {
+  align-self: stretch;
+  background-color: #eee;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 80px 20px;
+  box-sizing: border-box;
+  gap: 10px;
+  max-width: 100%;
+}
+.welcome-to-lilylamb {
+  width: 1680px;
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  max-width: 100%;
+}
+.acceptance-of-terms {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 43px;
+}
+.acceptance-of-terms-container {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 700;
+  font-family: inherit;
+}
+.please-read-these {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  color: #4b2f2f;
+}
+.acceptance-of-terms-parent {
+  width: 1680px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 32px;
+  color: #262626;
+  font-family: Inter;
+}
+.privacy-policy,
+.privacy-policy1 {
+  margin: 0;
+  font-size: inherit;
+  font-family: inherit;
+}
+.privacy-policy1 {
+  padding-left: 43px;
+}
+.privacy-policy {
+  align-self: stretch;
+  position: relative;
+  line-height: 120%;
+  font-weight: 700;
+}
+.our-privacy-policy {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  color: #4b2f2f;
+}
+.privacy-policy-parent {
+  width: 1680px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 32px;
+  color: #262626;
+  font-family: Inter;
+}
+.service-availability,
+.service-availability1 {
+  margin: 0;
+  font-size: inherit;
+  font-family: inherit;
+}
+.service-availability1 {
+  padding-left: 43px;
+}
+.service-availability {
+  align-self: stretch;
+  position: relative;
+  line-height: 120%;
+  font-weight: 700;
+}
+.we-strive-to {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  color: #4b2f2f;
+}
+.service-availability-parent {
+  width: 1680px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 32px;
+  color: #262626;
+  font-family: Inter;
+}
+.user-conduct1 {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 43px;
+}
+.user-conduct,
+.you-agree-to {
+  align-self: stretch;
+  position: relative;
+}
+.user-conduct {
+  margin: 0;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 700;
+  font-family: inherit;
+}
+.you-agree-to {
+  font-size: 16px;
+  line-height: 22px;
+  color: #4b2f2f;
+}
+.user-conduct-parent {
+  width: 1680px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 32px;
+  color: #262626;
+  font-family: Inter;
+}
+.termination1 {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 43px;
+}
+.termination,
+.we-reserve-the {
+  align-self: stretch;
+  position: relative;
+}
+.termination {
+  margin: 0;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 700;
+  font-family: inherit;
+}
+.we-reserve-the {
+  font-size: 16px;
+  line-height: 22px;
+  color: #4b2f2f;
+}
+.termination-parent {
+  width: 1680px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 32px;
+  color: #262626;
+  font-family: Inter;
+}
+.limitation-of-liability {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 43px;
+}
+.limitation-of-liability-container {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 700;
+  font-family: inherit;
+}
+.to-the-fullest {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  color: #4b2f2f;
+}
+.limitation-of-liability-parent {
+  width: 1680px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 32px;
+  color: #262626;
+  font-family: Inter;
+}
+.governing-law1 {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 43px;
+}
+.governing-law,
+.these-terms-are {
+  align-self: stretch;
+  position: relative;
+}
+.governing-law {
+  margin: 0;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 700;
+  font-family: inherit;
+}
+.these-terms-are {
+  font-size: 16px;
+  line-height: 135%;
+  color: #4b2f2f;
+}
+.governing-law-parent {
+  width: 1680px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+  max-width: 100%;
+  font-size: 32px;
+  color: #262626;
+}
+.contact-us2,
+.contact-us3 {
+  margin: 0;
+  font-size: inherit;
+  font-family: inherit;
+}
+.contact-us3 {
+  padding-left: 43px;
+}
+.contact-us2 {
+  align-self: stretch;
+  position: relative;
+  line-height: 120%;
+  font-weight: 700;
+}
+.blank-line,
+.if-you-have1,
+.thank-you-for,
+.we-hope-you {
+  margin: 0;
+}
+.if-you-have-container {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  color: #4b2f2f;
+}
+.contact-us-group {
+  width: 1680px;
+  align-items: flex-start;
+  gap: 32px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 32px;
+  color: #262626;
+}
+.contact-us-group,
+.termsandconditionspage,
+.welcome-to-lilylamb-kids-these-parent {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  font-family: Inter;
+}
+.welcome-to-lilylamb-kids-these-parent {
+  align-self: stretch;
+  align-items: center;
+  padding: 80px 20px;
+  box-sizing: border-box;
+  gap: 64px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 16px;
+  color: #4b2f2f;
+}
+.termsandconditionspage {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  overflow: hidden;
+  align-items: flex-start;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  font-size: 48px;
+  color: #1c1c1c;
+}
+@media screen and (max-width: 1200px) {
+  .welcome-to-lilylamb-kids-these-parent {
+    padding-top: 34px;
+    padding-bottom: 34px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 750px) {
+  .terms-conditions {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .acceptance-of-terms-container {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .acceptance-of-terms-parent {
+    gap: 16px;
+  }
+  .privacy-policy {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .privacy-policy-parent {
+    gap: 16px;
+  }
+  .service-availability {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .service-availability-parent {
+    gap: 16px;
+  }
+  .user-conduct {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .user-conduct-parent {
+    gap: 16px;
+  }
+  .termination {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .termination-parent {
+    gap: 16px;
+  }
+  .limitation-of-liability-container {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .limitation-of-liability-parent {
+    gap: 16px;
+  }
+  .governing-law {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .governing-law-parent {
+    gap: 16px;
+  }
+  .contact-us2 {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .contact-us-group {
+    gap: 16px;
+  }
+  .welcome-to-lilylamb-kids-these-parent {
+    gap: 32px;
+    padding-top: 22px;
+    padding-bottom: 22px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .terms-conditions {
+    font-size: 29px;
+    line-height: 32px;
+  }
+  .acceptance-of-terms-container,
+  .contact-us2,
+  .governing-law,
+  .limitation-of-liability-container,
+  .privacy-policy,
+  .service-availability,
+  .termination,
+  .user-conduct {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .welcome-to-lilylamb-kids-these-parent {
+    gap: 16px;
+  }
+}

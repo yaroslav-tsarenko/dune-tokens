@@ -1,0 +1,560 @@
+.fortnite-and-entertainment {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.link-icon9 {
+  height: 115px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: contain;
+}
+.background10 {
+  align-self: stretch;
+  background-color: #f9f9f9;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 32.5px 47px;
+}
+.code,
+.fortnite-1000-v-bucks {
+  margin: 0;
+}
+.fortnite-1000-v-bucks-container {
+  flex: 1;
+  position: relative;
+  line-height: 22.4px;
+  font-weight: 600;
+}
+.container7 {
+  align-self: stretch;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 29px 0.7px 0;
+  font-size: 16px;
+}
+.digital-code9 {
+  position: relative;
+  line-height: 20px;
+  display: inline-block;
+  min-width: 73.4px;
+}
+.digital-delivery-type {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 4px;
+  font-size: 13.9px;
+  color: #999;
+}
+.div18 {
+  position: relative;
+  line-height: 20px;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 9px;
+}
+.fortnite-price-values {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 2px 0 0;
+}
+.div19,
+.netflix-price-value {
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+}
+.div19 {
+  font-size: 19.7px;
+  line-height: 28px;
+  min-width: 16.7px;
+}
+.netflix-price-value {
+  line-height: 20px;
+  min-width: 16px;
+}
+.fortnite-voucher-prices,
+.netflix-price-value-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.netflix-price-value-wrapper {
+  flex-direction: column;
+  padding: 2px 0 0;
+  font-size: 13.8px;
+}
+.fortnite-voucher-prices {
+  flex-direction: row;
+  padding: 0 0 7.5px;
+  gap: 0.4px;
+}
+.button10,
+.buy9 {
+  display: flex;
+  justify-content: center;
+}
+.buy9 {
+  width: 26.6px;
+  position: relative;
+  line-height: 14px;
+  font-weight: 600;
+  align-items: center;
+  flex-shrink: 0;
+  min-width: 26.6px;
+}
+.button10 {
+  align-self: stretch;
+  border-radius: 3px;
+  background-color: #262626;
+  border: 1px solid #262626;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 13px 20px;
+  text-align: center;
+  color: #fff;
+}
+.fortnite-voucher-options {
+  flex: 1;
+  flex-direction: column;
+}
+.fortnite-voucher-cards,
+.fortnite-voucher-options,
+.overlaybordershadow9 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.fortnite-voucher-cards {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 12px;
+}
+.overlaybordershadow9 {
+  flex: 1;
+  box-shadow: 1px 2px 3px rgba(0, 0, 0, 0.05);
+  border-radius: 5px;
+  background-color: transparent;
+  border: 1px solid #e5e5e5;
+  box-sizing: border-box;
+  flex-direction: column;
+  padding: 0 0 11px;
+  gap: 12px;
+  min-width: 270px;
+  max-width: 276px;
+}
+.link-icon10 {
+  height: 115px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: contain;
+}
+.background11 {
+  align-self: stretch;
+  background-color: #f9f9f9;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 32.5px 47px;
+}
+.code1,
+.fortnite-2800-v-bucks {
+  margin: 0;
+}
+.fortnite-2800-v-bucks-container {
+  flex: 1;
+  position: relative;
+  line-height: 22.4px;
+  font-weight: 600;
+}
+.container8 {
+  align-self: stretch;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 29px 0.7px 0;
+  font-size: 16px;
+}
+.digital-code10 {
+  position: relative;
+  line-height: 20px;
+  display: inline-block;
+  min-width: 73.4px;
+}
+.digital-code-wrapper4 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 4px;
+  font-size: 13.9px;
+  color: #999;
+}
+.div20 {
+  position: relative;
+  line-height: 20px;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 9px;
+}
+.wrapper6 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 2px 0 0;
+}
+.div21,
+.div22 {
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+}
+.div21 {
+  font-size: 19.5px;
+  line-height: 28px;
+  min-width: 27.8px;
+}
+.div22 {
+  line-height: 20px;
+  min-width: 16px;
+}
+.frame-parent6,
+.wrapper7 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.wrapper7 {
+  flex-direction: column;
+  padding: 2px 0 0;
+  font-size: 13.8px;
+}
+.frame-parent6 {
+  flex-direction: row;
+  padding: 0 0 7.5px;
+  gap: 0.4px;
+}
+.button11,
+.buy10 {
+  display: flex;
+  justify-content: center;
+}
+.buy10 {
+  width: 26.6px;
+  position: relative;
+  line-height: 14px;
+  font-weight: 600;
+  align-items: center;
+  flex-shrink: 0;
+  min-width: 26.6px;
+}
+.button11 {
+  align-self: stretch;
+  border-radius: 3px;
+  background-color: #262626;
+  border: 1px solid #262626;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 13px 20px;
+  text-align: center;
+  color: #fff;
+}
+.container-container {
+  flex: 1;
+  flex-direction: column;
+}
+.container-container,
+.overlaybordershadow-inner4,
+.overlaybordershadow10 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.overlaybordershadow-inner4 {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 12px;
+}
+.overlaybordershadow10 {
+  flex: 1;
+  box-shadow: 1px 2px 3px rgba(0, 0, 0, 0.05);
+  border-radius: 5px;
+  background-color: transparent;
+  border: 1px solid #e5e5e5;
+  box-sizing: border-box;
+  flex-direction: column;
+  padding: 0 0 11px;
+  gap: 12px;
+  min-width: 270px;
+  max-width: 276px;
+}
+.link-icon11 {
+  height: 114px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+}
+.background12 {
+  align-self: stretch;
+  background-color: #f9f9f9;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 33px 47px;
+}
+.variable-netflix-gift {
+  position: relative;
+  line-height: 22.4px;
+  font-weight: 600;
+}
+.container9 {
+  align-self: stretch;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 0 23.1px;
+  font-size: 16px;
+}
+.digital-code11 {
+  position: relative;
+  line-height: 20px;
+  display: inline-block;
+  min-width: 73.4px;
+}
+.digital-code-wrapper5 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 4px;
+  font-size: 13.9px;
+  color: #999;
+}
+.div23 {
+  position: relative;
+  line-height: 20px;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 9px;
+}
+.spotify-price-value {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 2px 0 0;
+}
+.netflix-amount,
+.spotify-price-value1 {
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+}
+.spotify-price-value1 {
+  font-size: 19.5px;
+  line-height: 28px;
+  min-width: 29px;
+}
+.netflix-amount {
+  line-height: 20px;
+  min-width: 16px;
+}
+.netflix-amount-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 2px 0 0;
+}
+.div24 {
+  position: relative;
+  font-size: 20px;
+  line-height: 28px;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 8px;
+}
+.frame-parent7 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0.3px;
+  font-size: 13.8px;
+}
+.div25 {
+  position: relative;
+  line-height: 20px;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 9px;
+}
+.spotify-price-value2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 2px 0 0;
+}
+.div26,
+.empty-price5 {
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+}
+.div26 {
+  font-size: 19.5px;
+  line-height: 28px;
+  min-width: 38.9px;
+}
+.empty-price5 {
+  line-height: 20px;
+  min-width: 16px;
+}
+.price-container,
+.spotify-price-value-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.price-container {
+  flex-direction: column;
+  padding: 2px 0 0;
+  font-size: 13.8px;
+}
+.spotify-price-value-parent {
+  flex-direction: row;
+  padding: 0 0 7.5px;
+  gap: 0.1px;
+}
+.button12,
+.buy11 {
+  display: flex;
+  justify-content: center;
+}
+.buy11 {
+  width: 26.6px;
+  position: relative;
+  line-height: 14px;
+  font-weight: 600;
+  align-items: center;
+  flex-shrink: 0;
+  min-width: 26.6px;
+}
+.button12 {
+  align-self: stretch;
+  border-radius: 3px;
+  background-color: #262626;
+  border: 1px solid #262626;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 13px 20px;
+  text-align: center;
+  color: #fff;
+}
+.container-parent1 {
+  flex: 1;
+  flex-direction: column;
+}
+.container-parent1,
+.overlaybordershadow-inner5,
+.overlaybordershadow11 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.overlaybordershadow-inner5 {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 12px;
+}
+.overlaybordershadow11 {
+  flex: 1;
+  box-shadow: 1px 2px 3px rgba(0, 0, 0, 0.05);
+  border-radius: 5px;
+  background-color: transparent;
+  border: 1px solid #e5e5e5;
+  box-sizing: border-box;
+  flex-direction: column;
+  padding: 0 0 11px;
+  gap: 12px;
+  min-width: 270px;
+  max-width: 276px;
+}
+.fortnite-container,
+.fortnite-entertainment {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+}
+.fortnite-container {
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 75px;
+  font-size: 14px;
+  color: #000;
+  font-family: Roboto;
+}
+.fortnite-entertainment {
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 32px;
+  text-align: left;
+  font-size: 24px;
+  color: #0b1f1f;
+  font-family: Inter;
+}
+@media screen and (max-width: 850px) {
+  .fortnite-container {
+    gap: 37px;
+  }
+  .fortnite-entertainment {
+    gap: 16px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .fortnite-and-entertainment {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .background10,
+  .background11,
+  .background12 {
+    padding-left: 20px;
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+  .div24 {
+    font-size: 16px;
+    line-height: 22px;
+  }
+  .fortnite-container {
+    gap: 19px;
+  }
+}

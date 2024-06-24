@@ -1,0 +1,821 @@
+.link-icon3 {
+  height: 144px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: contain;
+}
+.background3 {
+  align-self: stretch;
+  background-color: #f9f9f9;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 18px 47px;
+}
+.email-delivery,
+.variable-apple-gift {
+  margin: 0;
+}
+.variable-apple-gift-container {
+  position: relative;
+  line-height: 120%;
+}
+.container3 {
+  align-self: stretch;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 15px 1.5px 0;
+  font-size: 18px;
+  font-family: Inter;
+}
+.digital-code2 {
+  position: relative;
+  line-height: 20px;
+  display: inline-block;
+  min-width: 73.4px;
+}
+.apple-card-button {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 4px;
+  font-size: 13.9px;
+  color: #999;
+}
+.div5 {
+  position: relative;
+  line-height: 20px;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 9px;
+}
+.frame-div {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 2px 0 0;
+}
+.div6,
+.empty-price {
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+}
+.div6 {
+  font-size: 19.5px;
+  line-height: 28px;
+  min-width: 29px;
+}
+.empty-price {
+  line-height: 20px;
+  min-width: 16px;
+}
+.empty-price-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 2px 0 0;
+}
+.sub-price-separator {
+  position: relative;
+  font-size: 20px;
+  line-height: 28px;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 8px;
+}
+.frame-container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0.3px;
+  font-size: 13.8px;
+}
+.div7 {
+  position: relative;
+  line-height: 20px;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 9px;
+}
+.wrapper1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 2px 0 0;
+}
+.empty-price1,
+.price-separator {
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+}
+.price-separator {
+  font-size: 19.5px;
+  line-height: 28px;
+  min-width: 38.9px;
+}
+.empty-price1 {
+  line-height: 20px;
+  min-width: 16px;
+}
+.empty-price-container,
+.steam-card-price {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.empty-price-container {
+  flex-direction: column;
+  padding: 2px 0 0;
+  font-size: 13.8px;
+}
+.steam-card-price {
+  flex-direction: row;
+  padding: 0 0 7.5px;
+  gap: 0.1px;
+}
+.button2,
+.buy2 {
+  display: flex;
+  justify-content: center;
+}
+.buy2 {
+  width: 26.6px;
+  position: relative;
+  line-height: 14px;
+  font-weight: 600;
+  align-items: center;
+  flex-shrink: 0;
+  min-width: 26.6px;
+}
+.button2 {
+  align-self: stretch;
+  border-radius: 3px;
+  background-color: #262626;
+  border: 1px solid #262626;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 13px 20px;
+  text-align: center;
+  color: #fff;
+}
+.apple-card-info {
+  flex: 1;
+  flex-direction: column;
+}
+.apple-card-content,
+.apple-card-info,
+.overlaybordershadow2 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.apple-card-content {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 12px;
+}
+.overlaybordershadow2 {
+  flex: 1;
+  box-shadow: 1px 2px 3px rgba(0, 0, 0, 0.05);
+  border-radius: 5px;
+  background-color: transparent;
+  border: 1px solid #e5e5e5;
+  box-sizing: border-box;
+  flex-direction: column;
+  padding: 0 0 11px;
+  gap: 12px;
+  min-width: 270px;
+  max-width: 276px;
+}
+.x180png-icon {
+  height: 144px;
+  width: 100px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.background4 {
+  align-self: stretch;
+  background-color: #f9f9f9;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 18px 20px;
+}
+.digital-code3,
+.variable-xbox-50 {
+  position: absolute;
+  display: flex;
+  align-items: center;
+}
+.variable-xbox-50 {
+  top: 0;
+  left: 0;
+  line-height: 120%;
+  font-family: Inter;
+  width: 258px;
+}
+.digital-code3 {
+  top: 39px;
+  left: 1px;
+  font-size: 13.9px;
+  line-height: 20px;
+  color: #999;
+  width: 73.4px;
+  height: 20px;
+  min-width: 73.4px;
+}
+.div8 {
+  position: relative;
+  line-height: 20px;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 9px;
+}
+.price-symbol {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 2px 0 0;
+}
+.empty-price2,
+.price-separator1 {
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+}
+.price-separator1 {
+  font-size: 19.5px;
+  line-height: 28px;
+  min-width: 29px;
+}
+.empty-price2 {
+  line-height: 20px;
+  min-width: 16px;
+}
+.price-decimal-symbol {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 2px 0 0;
+}
+.price-unit {
+  position: relative;
+  font-size: 20px;
+  line-height: 28px;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 8px;
+}
+.price-decimal {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0.3px;
+  font-size: 13.8px;
+}
+.div9 {
+  position: relative;
+  line-height: 20px;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 9px;
+}
+.price-unit-symbol {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 2px 0 0;
+}
+.empty-price-decimal1,
+.empty-price-separator {
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+}
+.empty-price-separator {
+  font-size: 19.5px;
+  line-height: 28px;
+  min-width: 38.9px;
+}
+.empty-price-decimal1 {
+  line-height: 20px;
+  min-width: 16px;
+}
+.apple-card-price,
+.empty-price-decimal {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.empty-price-decimal {
+  flex-direction: column;
+  padding: 2px 0 0;
+  font-size: 13.8px;
+}
+.apple-card-price {
+  position: absolute;
+  top: 58.7px;
+  left: 0;
+  flex-direction: row;
+  gap: 0.1px;
+  font-size: 14px;
+}
+.variable-xbox-50-digital-card-parent {
+  align-self: stretch;
+  height: 86.7px;
+  position: relative;
+  flex-shrink: 0;
+}
+.buy3 {
+  width: 26.6px;
+  position: relative;
+  line-height: 14px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  min-width: 26.6px;
+}
+.button3,
+.frame-parent1 {
+  display: flex;
+  align-items: flex-start;
+  box-sizing: border-box;
+}
+.button3 {
+  width: 250px;
+  border-radius: 3px;
+  background-color: #262626;
+  border: 1px solid #262626;
+  flex-direction: row;
+  justify-content: center;
+  padding: 13px 20px;
+  text-align: center;
+  font-size: 14px;
+  color: #fff;
+}
+.frame-parent1 {
+  height: 138.2px;
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 0 0 51.5px;
+  gap: 7.5px;
+}
+.overlaybordershadow-child {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 4px 0 12px;
+}
+.overlaybordershadow3 {
+  flex: 1;
+  box-shadow: 1px 2px 3px rgba(0, 0, 0, 0.05);
+  border-radius: 5px;
+  background-color: transparent;
+  border: 1px solid #e5e5e5;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 0 11px;
+  gap: 22.1px;
+  min-width: 270px;
+  max-width: 276px;
+  font-size: 18px;
+}
+.link-icon4 {
+  height: 114px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: contain;
+}
+.background5 {
+  align-self: stretch;
+  background-color: #f9f9f9;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 33px 47px;
+}
+.p,
+.variable-google-play {
+  margin: 0;
+}
+.variable-google-play-container {
+  position: relative;
+  font-size: 18px;
+  line-height: 120%;
+  font-family: Inter;
+}
+.digital-code4 {
+  position: relative;
+  line-height: 20px;
+  display: inline-block;
+  min-width: 73.4px;
+}
+.digital-code-frame {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 7px 3.3px;
+  font-size: 13.9px;
+  color: #999;
+}
+.div10 {
+  position: relative;
+  line-height: 20px;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 9px;
+}
+.wrapper2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 2px 0 0;
+}
+.empty-price3,
+.price-separator2 {
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+}
+.price-separator2 {
+  font-size: 19.7px;
+  line-height: 28px;
+  min-width: 18px;
+}
+.empty-price3 {
+  line-height: 20px;
+  min-width: 16px;
+}
+.empty-price-frame {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 2px 0 0;
+}
+.price-separator3 {
+  position: relative;
+  font-size: 20px;
+  line-height: 28px;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 8px;
+}
+.frame-parent3 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0.2px;
+  font-size: 13.8px;
+}
+.div11 {
+  position: relative;
+  line-height: 20px;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 9px;
+}
+.wrapper3 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 2px 0 0;
+}
+.empty-price4,
+.price-separator4 {
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+}
+.price-separator4 {
+  font-size: 19.5px;
+  line-height: 28px;
+  min-width: 39px;
+}
+.empty-price4 {
+  line-height: 20px;
+  min-width: 16px;
+}
+.empty-price-wrapper1,
+.frame-parent2,
+.frame-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.empty-price-wrapper1 {
+  flex-direction: column;
+  padding: 2px 0 0;
+  font-size: 13.8px;
+}
+.frame-parent2,
+.frame-wrapper {
+  flex-direction: row;
+}
+.frame-parent2 {
+  gap: 0.1px;
+}
+.frame-wrapper {
+  padding: 0 7px 6.8px;
+}
+.buy4 {
+  width: 26.6px;
+  position: relative;
+  line-height: 14px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  min-width: 26.6px;
+}
+.button-wrapper,
+.button4 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.button4 {
+  flex: 1;
+  border-radius: 3px;
+  background-color: #262626;
+  border: 1px solid #262626;
+  justify-content: center;
+  padding: 13px 20px;
+}
+.button-wrapper {
+  align-self: stretch;
+  justify-content: flex-start;
+  padding: 0 7px;
+  text-align: center;
+  color: #fff;
+}
+.variable-google-play-gift-code-parent {
+  height: 148.2px;
+  flex: 1;
+  flex-direction: column;
+  padding: 0 0 51.5px;
+  box-sizing: border-box;
+  gap: 0.7px;
+}
+.overlaybordershadow-inner1,
+.overlaybordershadow4,
+.variable-google-play-gift-code-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.overlaybordershadow-inner1 {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 5px;
+}
+.overlaybordershadow4 {
+  flex: 1;
+  box-shadow: 1px 2px 3px rgba(0, 0, 0, 0.05);
+  border-radius: 5px;
+  background-color: transparent;
+  border: 1px solid #e5e5e5;
+  box-sizing: border-box;
+  flex-direction: column;
+  padding: 0 0 11px;
+  gap: 12.1px;
+  min-width: 270px;
+  max-width: 276px;
+}
+.link-icon5 {
+  height: 113px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+}
+.background6 {
+  align-self: stretch;
+  background-color: #f9f9f9;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 33.5px 47px;
+}
+.amazoncouk-gift-card {
+  position: relative;
+  line-height: 22px;
+}
+.digital-code5,
+.div12 {
+  position: relative;
+  line-height: 20px;
+  display: inline-block;
+  min-width: 73.4px;
+}
+.div12 {
+  font-weight: 600;
+  min-width: 9px;
+}
+.xbox-price-symbol {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 2px 0 0;
+}
+.xbox-empty-price,
+.xbox-price-separator {
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+}
+.xbox-price-separator {
+  font-size: 19.5px;
+  line-height: 28px;
+  min-width: 38.9px;
+}
+.xbox-empty-price {
+  line-height: 20px;
+  min-width: 16px;
+}
+.xbox-price-decimal {
+  flex-direction: column;
+  padding: 2px 0 0;
+  font-size: 13.8px;
+}
+.digital-code-parent,
+.xbox-card-price,
+.xbox-price-decimal {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.xbox-card-price {
+  flex-direction: row;
+  gap: 0.4px;
+  font-size: 14px;
+  color: #000;
+}
+.digital-code-parent {
+  flex-direction: column;
+  gap: 4px;
+}
+.button5,
+.buy5 {
+  display: flex;
+  justify-content: center;
+}
+.buy5 {
+  width: 26.6px;
+  position: relative;
+  line-height: 14px;
+  font-weight: 600;
+  align-items: center;
+  flex-shrink: 0;
+  min-width: 26.6px;
+}
+.button5 {
+  align-self: stretch;
+  border-radius: 3px;
+  background-color: #262626;
+  border: 1px solid #262626;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 13px 20px;
+  text-align: center;
+  font-size: 14px;
+  color: #fff;
+}
+.amazoncouk-gift-card-100-parent,
+.frame-parent4 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent4 {
+  width: 250px;
+  gap: 7.5px;
+  font-size: 13.9px;
+  color: #999;
+  font-family: Roboto;
+}
+.amazoncouk-gift-card-100-parent {
+  gap: 23.5px;
+}
+.overlaybordershadow-inner2 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 1px;
+}
+.overlaybordershadow5 {
+  flex: 1;
+  box-shadow: 1px 2px 3px rgba(0, 0, 0, 0.05);
+  border-radius: 5px;
+  background-color: transparent;
+  border: 1px solid #e5e5e5;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 0 11px;
+  gap: 11.3px;
+  min-width: 270px;
+  max-width: 276px;
+  font-size: 18px;
+  font-family: Inter;
+}
+.apple-card,
+.popular-card-list {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.apple-card {
+  flex: 1;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 75px;
+}
+.popular-card-list {
+  align-self: stretch;
+  justify-content: flex-start;
+  padding: 0 0 12.7px;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: 14px;
+  color: #000;
+  font-family: Roboto;
+}
+@media screen and (max-width: 850px) {
+  .apple-card {
+    gap: 37px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .background3 {
+    padding-left: 20px;
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+  .price-unit,
+  .sub-price-separator {
+    font-size: 16px;
+    line-height: 22px;
+  }
+  .background5 {
+    padding-left: 20px;
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+  .price-separator3 {
+    font-size: 16px;
+    line-height: 22px;
+  }
+  .background6 {
+    padding-left: 20px;
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+  .apple-card {
+    gap: 19px;
+  }
+}

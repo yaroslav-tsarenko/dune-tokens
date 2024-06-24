@@ -1,0 +1,98 @@
+.the-perfect-gift {
+  margin: 0;
+  width: 613px;
+  position: relative;
+  font-size: inherit;
+  line-height: 110%;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.frame-child {
+  height: 46px;
+  width: 116px;
+}
+.picture-en-generic-2024-hp-d-inner {
+  width: 613px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  max-width: 100%;
+}
+.button-icon,
+.button-icon1 {
+  height: 32px;
+  width: 32px;
+  position: relative;
+  border-radius: 9999px;
+  min-height: 32px;
+}
+.button-parent {
+  width: 100%;
+  margin: 0 !important;
+  position: absolute;
+  top: calc(50% - 16px);
+  right: 0;
+  left: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 0 120px;
+  box-sizing: border-box;
+  gap: 20px;
+  max-width: 100%;
+  z-index: 1;
+}
+.picture-en-generic-2024-hp-d,
+.section {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.picture-en-generic-2024-hp-d {
+  flex: 1;
+  overflow: hidden;
+  flex-direction: column;
+  align-items: center;
+  padding: 211px 20px 211px 21px;
+  box-sizing: border-box;
+  position: relative;
+  gap: 26px;
+  background-image: url(/public/picture--en-generic-2024-hp-dk-banner-dk-1200x320jpg@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.section {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  flex-shrink: 0;
+  text-align: center;
+  font-size: 48px;
+  color: #fff;
+  font-family: Inter;
+}
+@media screen and (max-width: 850px) {
+  .the-perfect-gift {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .picture-en-generic-2024-hp-d {
+    padding-top: 137px;
+    padding-bottom: 137px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .the-perfect-gift {
+    font-size: 29px;
+    line-height: 32px;
+  }
+  .button-parent {
+    flex-wrap: wrap;
+  }
+}

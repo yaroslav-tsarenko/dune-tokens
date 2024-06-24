@@ -1,0 +1,82 @@
+.cancellation-period,
+.cancellation-period1 {
+  margin: 0;
+  font-size: inherit;
+  font-family: inherit;
+}
+.cancellation-period1 {
+  padding-left: 43px;
+}
+.cancellation-period {
+  align-self: stretch;
+  position: relative;
+  line-height: 120%;
+  font-weight: 700;
+}
+.time-period,
+.you-may-cancel {
+  align-self: stretch;
+  position: relative;
+  line-height: 22px;
+}
+.you-may-cancel {
+  color: #4b2f2f;
+}
+.cancellation-period-headers {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.beyond-time-period,
+.cancellations-made-after1 {
+  align-self: stretch;
+  position: relative;
+  line-height: 22px;
+}
+.cancellations-made-after1 {
+  color: #4b2f2f;
+}
+.cancellation-period-headers1 {
+  align-self: stretch;
+  gap: 16px;
+}
+.cancellation-period-details,
+.cancellation-period-headers1,
+.cancellation-period-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.cancellation-period-details {
+  align-self: stretch;
+  gap: 16px;
+  font-size: 16px;
+}
+.cancellation-period-parent {
+  width: 1680px;
+  gap: 32px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 32px;
+  color: #262626;
+  font-family: Inter;
+}
+@media screen and (max-width: 750px) {
+  .cancellation-period {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .cancellation-period-parent {
+    gap: 16px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .cancellation-period {
+    font-size: 19px;
+    line-height: 23px;
+  }
+}

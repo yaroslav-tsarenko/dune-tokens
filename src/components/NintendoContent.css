@@ -1,0 +1,53 @@
+.nintendo {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  min-width: 108px;
+  flex-shrink: 0;
+}
+.nintendo-card-container1,
+.nintendo-content {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+}
+.nintendo-card-container1 {
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 75px;
+  flex-shrink: 0;
+  font-size: 14px;
+  color: #000;
+  font-family: Roboto;
+}
+.nintendo-content {
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 32px;
+  text-align: left;
+  font-size: 24px;
+  color: #0b1f1f;
+  font-family: Inter;
+}
+@media screen and (max-width: 850px) {
+  .nintendo-card-container1 {
+    gap: 37px;
+  }
+  .nintendo-content {
+    gap: 16px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .nintendo {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .nintendo-card-container1 {
+    gap: 19px;
+  }
+}

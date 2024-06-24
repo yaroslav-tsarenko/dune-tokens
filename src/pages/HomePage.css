@@ -1,0 +1,365 @@
+.heading-2,
+.heading-container {
+  display: flex;
+  justify-content: center;
+  max-width: 100%;
+  flex-shrink: 0;
+}
+.heading-2 {
+  margin: 0;
+  width: 652.9px;
+  position: relative;
+  font-size: inherit;
+  line-height: 49px;
+  font-weight: 700;
+  font-family: inherit;
+  align-items: center;
+}
+.heading-container {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 20px 36px 21px;
+  box-sizing: border-box;
+  text-align: center;
+  font-size: 35px;
+  color: #1b1c1e;
+  font-family: "Open Sans";
+}
+.elysian-giftss-digital {
+  width: 713px;
+  position: relative;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.description-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px 36px;
+  flex-shrink: 0;
+}
+.link {
+  height: 40px;
+  width: 167.8px;
+}
+.view-all-link-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px 36px;
+}
+.andor-its-affiliates,
+.the-merchants-represented {
+  margin: 0;
+}
+.the-merchants-represented-container1 {
+  width: 100%;
+}
+.the-merchants-represented-container {
+  width: 1680px;
+  position: relative;
+  line-height: 135%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.disclaimer-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px 102.3px;
+  box-sizing: border-box;
+  max-width: 100%;
+  flex-shrink: 0;
+  text-align: center;
+  font-size: 16px;
+  color: #1b1c1e;
+  font-family: Inter;
+}
+.playstation,
+.popular-gift-cards {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.link-icon {
+  position: absolute;
+  height: calc(100% - 20px);
+  top: 10.1px;
+  bottom: 9.9px;
+  left: calc(50% - 56.4px);
+  max-height: 100%;
+  width: 112.9px;
+  object-fit: cover;
+}
+.popular {
+  position: relative;
+  line-height: 16px;
+  text-transform: uppercase;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 58.9px;
+}
+.background1 {
+  position: absolute;
+  top: 16px;
+  left: 0;
+  background-color: #9b3cb1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 4px 15px 4px 16px;
+  z-index: 1;
+}
+.background {
+  align-self: stretch;
+  height: 180px;
+  position: relative;
+  background-color: #f9f9f9;
+}
+.playstation-store-card {
+  position: relative;
+  line-height: 22px;
+}
+.container {
+  align-self: stretch;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 11px 23.5px 0;
+  font-size: 18px;
+  font-family: Inter;
+}
+.digital-code {
+  position: relative;
+  line-height: 20px;
+  display: inline-block;
+  min-width: 73.4px;
+}
+.digital-code-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 4px;
+  font-size: 13.9px;
+  color: #999;
+}
+.div {
+  position: relative;
+  line-height: 20px;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 9px;
+}
+.playstation-price {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 2px 0 0;
+}
+.div1,
+.separator {
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+}
+.separator {
+  font-size: 19.5px;
+  line-height: 28px;
+  min-width: 27.8px;
+}
+.div1 {
+  line-height: 20px;
+  min-width: 16px;
+}
+.playstation-price-parent,
+.playstation-price1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.playstation-price1 {
+  flex-direction: column;
+  padding: 2px 0 0;
+  font-size: 13.8px;
+}
+.playstation-price-parent {
+  flex-direction: row;
+  padding: 0 0 7.5px;
+  gap: 0.4px;
+}
+.button,
+.buy {
+  display: flex;
+  justify-content: center;
+}
+.buy {
+  width: 26.6px;
+  position: relative;
+  line-height: 14px;
+  font-weight: 600;
+  align-items: center;
+  flex-shrink: 0;
+  min-width: 26.6px;
+}
+.button {
+  align-self: stretch;
+  border-radius: 3px;
+  background-color: #262626;
+  border: 1px solid #262626;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 13px 20px;
+  text-align: center;
+  color: #fff;
+}
+.playstation-card-details,
+.playstation-card-info {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.playstation-card-details {
+  flex: 1;
+  flex-direction: column;
+}
+.playstation-card-info {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 12px;
+  font-size: 14px;
+  color: #000;
+}
+.overlaybordershadow,
+.playstation-card,
+.popular-card-content {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.overlaybordershadow {
+  align-self: stretch;
+  box-shadow: 1px 2px 3px rgba(0, 0, 0, 0.05);
+  border-radius: 5px;
+  background-color: transparent;
+  border: 1px solid #e5e5e5;
+  padding: 0 0 11px;
+  gap: 12px;
+  font-size: 12px;
+  color: #fff;
+  font-family: Roboto;
+}
+.playstation-card,
+.popular-card-content {
+  gap: 32px;
+}
+.playstation-card {
+  width: 276px;
+  padding: 0 0 12.7px;
+  box-sizing: border-box;
+}
+.popular-card-content {
+  width: 1680px;
+  max-width: 100%;
+}
+.popular-card-content-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px 22.4px;
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: left;
+  font-size: 24px;
+  color: #0b1f1f;
+  font-family: Inter;
+}
+.nintendo-card-container {
+  width: 1680px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 44.7px;
+  max-width: 100%;
+}
+.homepage,
+.nintendo-card {
+  display: flex;
+  box-sizing: border-box;
+}
+.nintendo-card {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px 22.4px;
+  max-width: 100%;
+}
+.homepage {
+  width: 100%;
+  height: 4955.4px;
+  position: relative;
+  background-color: #fff;
+  overflow: hidden;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 0 422.4px;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  font-size: 19.8px;
+  color: #1b1c1e;
+  font-family: Inter;
+}
+@media screen and (max-width: 850px) {
+  .heading-2 {
+    font-size: 28px;
+    line-height: 39px;
+  }
+  .popular-card-content {
+    gap: 16px;
+  }
+  .nintendo-card-container {
+    gap: 22px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .heading-2 {
+    font-size: 21px;
+    line-height: 29px;
+  }
+  .playstation,
+  .popular-gift-cards {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .playstation-card {
+    gap: 16px;
+  }
+  .homepage {
+    height: auto;
+  }
+}

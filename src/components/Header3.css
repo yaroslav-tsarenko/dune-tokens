@@ -1,0 +1,220 @@
+.desert-1-icon {
+  height: 30px;
+  width: 30px;
+  position: relative;
+  object-fit: cover;
+  min-height: 30px;
+}
+.dunetokens {
+  text-decoration: none;
+  position: relative;
+  line-height: 30px;
+  font-weight: 700;
+  color: inherit;
+  display: inline-block;
+  min-width: 123px;
+  white-space: nowrap;
+}
+.logo,
+.logo-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.logo {
+  flex-direction: row;
+  gap: 9px;
+}
+.logo-wrapper {
+  flex-direction: column;
+  padding: 1px 14px 0 0;
+}
+.border,
+.border1,
+.form {
+  border: 0;
+  background-color: transparent;
+  height: 32px;
+  font-family: Roboto;
+}
+.form {
+  width: 318.7px;
+  font-size: 14px;
+  color: #9ca3af;
+}
+.border,
+.border1 {
+  color: #666;
+}
+.border {
+  width: 89.1px;
+  font-size: 16px;
+}
+.border1 {
+  flex: 1;
+  font-size: 15.9px;
+}
+.link-icon1 {
+  align-self: stretch;
+  width: 53.2px;
+  position: relative;
+  max-height: 100%;
+  min-height: 32px;
+}
+.container1,
+.login {
+  width: 258.7px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.container1 {
+  width: 1680px;
+  justify-content: space-between;
+  padding: 6px 24px 0;
+  box-sizing: border-box;
+  gap: 20px;
+  max-width: 100%;
+}
+.item {
+  height: 46px;
+  width: 85.5px;
+  font-family: Roboto;
+  font-weight: 500;
+  font-size: 14px;
+  color: #000;
+}
+.entertainment {
+  position: relative;
+  line-height: 20px;
+  text-transform: uppercase;
+  font-weight: 500;
+  color: inherit;
+  display: inline-block;
+  text-decoration: none;
+  min-width: 121.6px;
+  flex-shrink: 0;
+  white-space: nowrap;
+}
+.link1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+}
+.icon {
+  width: 16.8px;
+  height: 16.8px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.icon-wrapper,
+.item1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 1.2px;
+}
+.item1 {
+  border-bottom: 2px solid #fff;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 13px 0 10px;
+  gap: 7.9px;
+}
+.item2 {
+  height: 46px;
+  width: 102.6px;
+  font-family: Roboto;
+  font-weight: 500;
+  font-size: 14px;
+  color: #000;
+}
+.ea-sports-fc {
+  position: relative;
+  line-height: 20px;
+  text-transform: uppercase;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 101.9px;
+  flex-shrink: 0;
+  white-space: nowrap;
+}
+.item3,
+.link2 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+}
+.item3 {
+  border-bottom: 2px solid #fff;
+  padding: 13px 0 10px;
+}
+.blog {
+  position: relative;
+  line-height: 20px;
+  text-transform: uppercase;
+  font-weight: 500;
+  color: inherit;
+  display: inline-block;
+  text-decoration: none;
+  min-width: 39.1px;
+  flex-shrink: 0;
+}
+.item4,
+.link3 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+}
+.item4 {
+  border-bottom: 2px solid #fff;
+  padding: 13px 0 10px;
+}
+.header,
+.list {
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.list {
+  width: 1680px;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 1px 20px;
+  gap: 32px;
+  font-size: 14px;
+  font-family: Roboto;
+}
+.header {
+  align-self: stretch;
+  background-color: #fff;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 8px 0;
+  gap: 12px;
+  top: 0;
+  z-index: 99;
+  position: sticky;
+  text-align: left;
+  font-size: 20px;
+  color: #000;
+  font-family: "Noto Sans";
+}
+@media screen and (max-width: 850px) {
+  .list {
+    gap: 16px;
+  }
+}
